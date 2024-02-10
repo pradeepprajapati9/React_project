@@ -1,0 +1,26 @@
+.container-img{
+    background-image:url("../hero.avif");
+    background-size: cover;
+    background-repeat:no-repeat;
+    height: 500px;
+    background-blend-mode: multiply;
+    background-color: rgba(0, 0, 0, 0.666);
+    background-attachment: fixed;
+    background-position: center;
+    text-align: center;
+
+}
+.Navbar-content{
+    display: flex;
+    margin-top: 50px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: rgba(255, 255, 255, 0.723);
+}
+.Navbar-content p{
+    font-weight: lighter !important;
+    text-align: center;
+    margin-bottom: -12px;
+}
+ 

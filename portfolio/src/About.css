@@ -1,0 +1,34 @@
+.big-about-contianer h1,p{
+    text-align: center;
+    padding: 10px;
+}
+.about-row-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 10px;
+}
+ 
+.about-row-container ul {
+    list-style: none;
+    padding: 10px;
+}
+.about-row-container div{
+    padding: 10px;
+}
+.about-row-container .child-1{
+    background-image: url("../public/images/verticle.jpeg");
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    object-position:0% 90%;
+}
+.about-row-container strong {
+    color: orange;
+}
+
+.about-row-container .child-1 {
+    grid-row: 1/4;
+}
+.about-row-container i{
+    color: orange;
+}

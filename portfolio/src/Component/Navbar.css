@@ -1,0 +1,22 @@
+.menuIcon {
+    padding: 20px;
+}
+
+ 
+.menuIcon ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+.menuIcon ul li .Navbar-link {
+    text-decoration: none;
+    padding: 20px;
+    color: rgba(255, 255, 255, 0.891);
+    font-size: 0.9rem;
+}
+
+.menuIcon ul li .Navbar-link:hover {
+    color: orange;
+    transition: 0.5s;
+}

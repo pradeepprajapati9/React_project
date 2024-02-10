@@ -1,0 +1,9 @@
+@media screen and (max-width:1000px) {
+    .form-content{
+        flex-direction: column;
+        justify-content: center;
+    }
+    .outline-none{
+        margin-top: 20px;
+    } 
+   }

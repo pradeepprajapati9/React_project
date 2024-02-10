@@ -1,0 +1,26 @@
+ 
+
+.Resume-container{
+    padding: 10px;
+    text-align: justify;
+    margin-top: 20px;
+}
+.Resume-container h1, h5{
+    text-align: center;
+}
+.Resume-container-row{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 10px;
+    padding: 20px;
+}
+.Resume-container-row div h1, p{
+    text-align: left;
+    font-size: 1.1rem;
+}
+
+.Resume-container-row ul{
+    list-style: none;
+    font-weight: 100 !important;
+    font-style: italic;
+}
