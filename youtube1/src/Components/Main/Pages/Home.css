@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap !important;
+}
+
+.card-data {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    padding: 0.1rem;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: wrap;
+}
+.card-data span{
+    color: black !important;
+}
+
+.main-card{
+ flex-wrap: wrap;
+}
