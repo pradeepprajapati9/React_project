@@ -1,0 +1,26 @@
+.link-icon{
+    padding: 10px;
+    font-size: 1.1rem;
+    font-weight:500;
+    text-decoration: none;
+    color: #000;;
+}
+.link-item{
+    text-decoration: none;
+    padding: 10px;
+}
+.bg-body-tertiary{
+    color: rgb(142, 117, 117);
+}
+.d-flex{
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.me-2{
+    width: 100%;
+}
+
+.bg-body-tertiary i{
+    font-size: 1.7rem;
+}

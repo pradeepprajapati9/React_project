@@ -1,0 +1,15 @@
+.about-container{
+    margin-top: 80px;
+}
+.about-img{
+    border-radius: 10px;
+    height: 400px;
+}
+.card-title{
+    font-size: 3rem;
+}
+.title{
+    font-size: 3rem !important;
+    color:  rgb(134, 79, 2);
+}
+ 

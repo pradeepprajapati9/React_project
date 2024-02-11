@@ -1,0 +1,16 @@
+.our-service{
+    background-color: rgb(226, 226, 226);
+}
+
+.card-service{
+    border: 1   px solid rgba(0, 0, 0, 0.722) !important;
+    overflow: hidden;
+}
+.card-service .card-grou-img{
+    height: 250px;
+    
+}
+.card-service .card-grou-img:hover{
+    transform: scale(1.1);
+    transition: 0.4s;
+}

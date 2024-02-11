@@ -1,0 +1,16 @@
+.clients-container .card-clients img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.card-clients{
+    padding: 10px;
+}
+.our-clients{
+    padding: 40px;
+    background-color: rgb(231, 231, 231);
+}
+.our-clients span{
+    color:  rgb(134, 79, 2);
+
+}

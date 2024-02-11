@@ -1,0 +1,19 @@
+.Product-container-all {
+    padding: 20px;
+}
+
+.Product-container-all h1 {
+    font-size: 1.2rem;
+}
+.Product-container-all ul{
+    list-style: none;
+}
+ 
+ 
+.row-product ul li{
+    display: inline-block;
+    padding: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    border: 1px solid rgba(0, 0, 0, 0.178);
+}
