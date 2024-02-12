@@ -11,10 +11,7 @@ running this command : npm install react-scripts
 
 ## if give error permission-denied
 craet file : .env and write in this file `SKIP_PREFLIGHT_CHECK=true;`
-
-## provide a link realstate 
-https://dummyfront.netlify.app
-
+ 
 ## provide a link of youtube
 https://youtubeclonebyp.netlify.app
 
